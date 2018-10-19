@@ -8,3 +8,4 @@ print(joke_evaluation.format(hilarious))
 t=x+y
 print(f"the summation of two numbers is",t)
 print("i love my daddy")
+print("mama")
